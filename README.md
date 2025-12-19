@@ -1,3 +1,11 @@
+  > ### 🐰 Try Bunny CDN
+  > Lightning-fast global CDN with storage from **$0.01/GB**
+  >
+  > 🥕 No egress fees  🥕 14-day free trial  🥕 Crypto payments
+  >
+  > [**Start Free Trial →**](https://bunny.net?ref=73f3vd6eq3)
+
+
 If you want to work with Instagrapi (business interests), we strongly advise you to prefer [HikerAPI SaaS](https://hikerapi.com/p/bkXQlaVe) project.
 However, you won't need to spend weeks or even months setting it up.
 The best service available today is [HikerAPI SaaS](https://hikerapi.com/p/bkXQlaVe), which handles 4–5 million daily requests, provides support around-the-clock, and offers partners a special rate.
@@ -12,7 +20,7 @@ The instagrapi more suits for testing or research than a working business!
 
 * [LamaTok](https://lamatok.com/p/B9ScEYIQ) for TikTok API 🔥
 * [HikerAPI](https://hikerapi.com/p/bkXQlaVe) for Instagram API ⚡⚡⚡
-* [DataLikers](https://datalikers.com/p/S9Lv5vBy) for Instagram Datasets 🚀
+* [DataLikers](https://datalikers.com/p/S9Lv5vBy) for Instagram Datasets, MCP, CacheAPI 🚀
 
 [![Package](https://github.com/subzeroid/instagrapi/actions/workflows/python-package.yml/badge.svg?branch=master&1)](https://github.com/subzeroid/instagrapi/actions/workflows/python-package.yml)
 [![PyPI](https://img.shields.io/pypi/v/instagrapi)](https://pypi.org/project/instagrapi/)
